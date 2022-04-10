@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.10"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "social-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsguerre/social-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsguerre/social-api/issues"
+  },
+  "homepage": "https://github.com/lsguerre/social-api#readme",
+  "description": ""
+}
